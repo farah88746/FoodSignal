@@ -1,0 +1,158 @@
+Country,Country code,Latest estimate (%),Reference year,Burden relative to peers,Historical signal,Evidence availability,Priority screen,Reason,Unambiguous years,Sources,Conflict years
+South Sudan (SSD),SSD,88.8,2024,Higher quarter of current-year estimates,Increasing,More available,Higher review priority,Higher relative burden and increasing historical signal,8,1,0
+Haiti (HTI),HTI,83.5,2024,Higher quarter of current-year estimates,Increasing,More available,Higher review priority,Higher relative burden and increasing historical signal,6,1,0
+Democratic Republic of the Congo (COD),COD,81.7,2024,Higher quarter of current-year estimates,Increasing,More available,Higher review priority,Higher relative burden and increasing historical signal,6,1,0
+Nigeria (NGA),NGA,76.5,2024,Higher quarter of current-year estimates,Increasing,More available,Higher review priority,Higher relative burden and increasing historical signal,10,1,0
+Yemen (YEM),YEM,74.4,2024,Higher quarter of current-year estimates,Increasing,More available,Higher review priority,Higher relative burden and increasing historical signal,10,1,0
+Benin (BEN),BEN,65.6,2024,Higher quarter of current-year estimates,Increasing,More available,Higher review priority,Higher relative burden and increasing historical signal,10,1,0
+Mauritania (MRT),MRT,65.1,2024,Higher quarter of current-year estimates,Increasing,More available,Higher review priority,Higher relative burden and increasing historical signal,10,1,0
+Eswatini (SWZ),SWZ,61.7,2024,Higher quarter of current-year estimates,Increasing,More available,Higher review priority,Higher relative burden and increasing historical signal,5,1,0
+Lesotho (LSO),LSO,61.6,2024,Higher quarter of current-year estimates,Increasing,More available,Higher review priority,Higher relative burden and increasing historical signal,7,1,0
+Madagascar (MDG),MDG,61.1,2024,Higher quarter of current-year estimates,Increasing,More available,Higher review priority,Higher relative burden and increasing historical signal,7,2,0
+Cameroon (CMR),CMR,60.9,2024,Higher quarter of current-year estimates,Increasing,More available,Higher review priority,Higher relative burden and increasing historical signal,10,2,0
+Ethiopia (ETH),ETH,60.1,2024,Higher quarter of current-year estimates,Increasing,More available,Higher review priority,Higher relative burden and increasing historical signal,10,1,0
+Togo (TGO),TGO,56.3,2024,Higher quarter of current-year estimates,Increasing,More available,Higher review priority,Higher relative burden and increasing historical signal,10,1,0
+Jamaica (JAM),JAM,55.8,2024,Higher quarter of current-year estimates,Increasing,More available,Higher review priority,Higher relative burden and increasing historical signal,10,1,0
+Niger (NER),NER,50.3,2024,Higher quarter of current-year estimates,Increasing,More available,Higher review priority,Higher relative burden and increasing historical signal,8,1,0
+Lebanon (LBN),LBN,44.3,2024,Higher quarter of current-year estimates,Increasing,More available,Higher review priority,Higher relative burden and increasing historical signal,7,1,0
+Kiribati (KIR),KIR,43.9,2024,Higher quarter of current-year estimates,Increasing,More available,Higher review priority,Higher relative burden and increasing historical signal,7,1,0
+Ghana (GHA),GHA,43.5,2024,Higher quarter of current-year estimates,Increasing,More available,Higher review priority,Higher relative burden and increasing historical signal,10,1,0
+Sierra Leone (SLE),SLE,88.1,2024,Higher quarter of current-year estimates,Decreasing,More available,Review burden and trend,"Higher relative burden, although the historical signal is decreasing",10,2,0
+Malawi (MWI),MWI,81.6,2024,Higher quarter of current-year estimates,Decreasing,More available,Review burden and trend,"Higher relative burden, although the historical signal is decreasing",10,1,0
+Liberia (LBR),LBR,79.0,2024,Higher quarter of current-year estimates,Decreasing,More available,Review burden and trend,"Higher relative burden, although the historical signal is decreasing",9,1,0
+Afghanistan (AFG),AFG,77.8,2024,Higher quarter of current-year estimates,Decreasing,More available,Review burden and trend,"Higher relative burden, although the historical signal is decreasing",10,2,0
+Angola (AGO),AGO,75.4,2024,Higher quarter of current-year estimates,Decreasing,More available,Review burden and trend,"Higher relative burden, although the historical signal is decreasing",6,1,0
+Kenya (KEN),KEN,71.7,2024,Higher quarter of current-year estimates,Decreasing,More available,Review burden and trend,"Higher relative burden, although the historical signal is decreasing",10,1,0
+Zimbabwe (ZWE),ZWE,70.1,2024,Higher quarter of current-year estimates,Decreasing,More available,Review burden and trend,"Higher relative burden, although the historical signal is decreasing",10,1,0
+Chad (TCD),TCD,65.0,2024,Higher quarter of current-year estimates,Decreasing,More available,Review burden and trend,"Higher relative burden, although the historical signal is decreasing",10,1,0
+Tanzania (TZA),TZA,57.0,2024,Higher quarter of current-year estimates,Decreasing,More available,Review burden and trend,"Higher relative burden, although the historical signal is decreasing",10,1,0
+Namibia (NAM),NAM,54.0,2024,Higher quarter of current-year estimates,Decreasing,More available,Review burden and trend,"Higher relative burden, although the historical signal is decreasing",10,1,0
+Botswana (BWA),BWA,52.0,2024,Higher quarter of current-year estimates,Decreasing,More available,Review burden and trend,"Higher relative burden, although the historical signal is decreasing",10,1,0
+Uganda (UGA),UGA,51.6,2024,Higher quarter of current-year estimates,Decreasing,More available,Review burden and trend,"Higher relative burden, although the historical signal is decreasing",10,1,0
+Guatemala (GTM),GTM,49.0,2024,Higher quarter of current-year estimates,Decreasing,More available,Review burden and trend,"Higher relative burden, although the historical signal is decreasing",10,1,0
+Gambia (GMB),GMB,47.2,2024,Higher quarter of current-year estimates,Decreasing,More available,Review burden and trend,"Higher relative burden, although the historical signal is decreasing",9,1,0
+Zambia (ZMB),ZMB,45.8,2024,Higher quarter of current-year estimates,Decreasing,More available,Review burden and trend,"Higher relative burden, although the historical signal is decreasing",10,1,0
+Burundi (BDI),BDI,70.8,2024,Higher quarter of current-year estimates,Insufficient comparable periods,Some available,Higher burden; trend uncertain,Higher relative burden; insufficient non-overlapping periods for trend,3,1,0
+Burkina Faso (BFA),BFA,41.2,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",8,1,0
+Laos (LAO),LAO,34.4,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",6,1,0
+Ukraine (UKR),UKR,32.0,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",10,1,0
+Albania (ALB),ALB,31.8,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",10,1,0
+Myanmar (MMR),MMR,31.3,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",6,1,0
+Egypt (EGY),EGY,29.9,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",10,1,0
+Bolivia (BOL),BOL,29.6,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",4,1,0
+Moldova (MDA),MDA,26.4,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",10,1,0
+South Africa (ZAF),ZAF,20.9,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",7,1,0
+New Zealand (NZL),NZL,17.9,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",10,1,0
+Hungary (HUN),HUN,16.9,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",10,1,0
+Uruguay (URY),URY,15.5,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",7,1,0
+Australia (AUS),AUS,15.1,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",10,1,0
+Azerbaijan (AZE),AZE,14.6,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",10,1,0
+Finland (FIN),FIN,13.3,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",10,1,0
+Estonia (EST),EST,13.1,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",10,1,0
+Latvia (LVA),LVA,11.7,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",10,1,0
+United States (USA),USA,10.7,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",10,1,0
+Canada (CAN),CAN,10.5,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",10,1,0
+Singapore (SGP),SGP,10.1,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",10,1,0
+France (FRA),FRA,9.4,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",10,1,0
+Vietnam (VNM),VNM,9.4,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",8,2,0
+Belgium (BEL),BEL,9.3,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",6,1,0
+Czechia (CZE),CZE,9.1,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",10,1,0
+Malta (MLT),MLT,9.0,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",10,1,0
+Israel (ISR),ISR,8.9,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",10,1,0
+Netherlands (NLD),NLD,8.9,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",10,1,0
+Iceland (ISL),ISL,7.9,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",10,1,0
+Sweden (SWE),SWE,7.9,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",10,1,0
+Norway (NOR),NOR,7.6,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",10,1,0
+Slovenia (SVN),SVN,7.6,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",10,1,0
+Kyrgyzstan (KGZ),KGZ,7.4,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",7,1,0
+United Kingdom (GBR),GBR,7.4,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",10,1,0
+Greece (GRC),GRC,7.1,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",10,2,0
+Ireland (IRL),IRL,6.2,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",10,1,0
+Japan (JPN),JPN,6.1,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",10,1,0
+South Korea (KOR),KOR,5.8,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",10,2,0
+Austria (AUT),AUT,4.4,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",10,1,0
+Germany (DEU),DEU,4.1,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",10,1,0
+Switzerland (CHE),CHE,2.6,2024,Below higher quarter,Increasing,More available,Monitor increasing signal,"Increasing historical signal, but not in the higher relative-burden group",10,1,0
+Central African Republic (CAF),CAF,88.1,2022,Pending peer comparison,Insufficient comparable periods,Limited,Data update needed,Latest usable estimate is from 2022; dataset ends at 2024,3,1,0
+Comoros (COM),COM,79.7,2023,Pending peer comparison,Little/no numerical change,Some available,Data update needed,Latest usable estimate is from 2023; dataset ends at 2024,4,1,0
+Guinea-Bissau (GNB),GNB,62.5,2022,Pending peer comparison,Increasing,Limited,Data update needed,Latest usable estimate is from 2022; dataset ends at 2024,6,1,0
+Papua New Guinea (PNG),PNG,57.3,2019,Pending peer comparison,Insufficient comparable periods,Limited,Data update needed,Latest usable estimate is from 2019; dataset ends at 2024,3,1,0
+Sao Tome and Principe (STP),STP,54.6,2022,Pending peer comparison,Insufficient comparable periods,Limited,Data update needed,Latest usable estimate is from 2022; dataset ends at 2024,3,1,0
+Timor-Leste (TLS),TLS,53.7,2021,Pending peer comparison,Insufficient comparable periods,Limited,Data update needed,Latest usable estimate is from 2021; dataset ends at 2024,3,1,0
+Djibouti (DJI),DJI,49.2,2022,Pending peer comparison,Insufficient comparable periods,Limited,Data update needed,Latest usable estimate is from 2022; dataset ends at 2024,3,1,0
+Suriname (SUR),SUR,35.9,2022,Pending peer comparison,Insufficient comparable periods,Limited,Data update needed,Latest usable estimate is from 2022; dataset ends at 2024,3,1,0
+Dominica (DMA),DMA,34.4,2022,Pending peer comparison,Insufficient comparable periods,Limited,Data update needed,Latest usable estimate is from 2022; dataset ends at 2024,3,1,0
+Saint Vincent and the Grenadines (VCT),VCT,33.3,2019,Pending peer comparison,Insufficient comparable periods,Limited,Data update needed,Latest usable estimate is from 2019; dataset ends at 2024,3,1,0
+Barbados (BRB),BRB,31.1,2022,Pending peer comparison,Insufficient comparable periods,Limited,Data update needed,Latest usable estimate is from 2022; dataset ends at 2024,3,1,0
+Nauru (NRU),NRU,29.9,2022,Pending peer comparison,Insufficient comparable periods,Limited,Data update needed,Latest usable estimate is from 2022; dataset ends at 2024,3,1,0
+Fiji (FJI),FJI,29.2,2022,Pending peer comparison,Increasing,Limited,Data update needed,Latest usable estimate is from 2022; dataset ends at 2024,4,2,0
+State of Palestine (PSE),PSE,27.4,2022,Pending peer comparison,Decreasing,Limited,Data update needed,Latest usable estimate is from 2022; dataset ends at 2024,6,1,0
+Vanuatu (VUT),VUT,23.3,2020,Pending peer comparison,Insufficient comparable periods,Limited,Data update needed,Latest usable estimate is from 2020; dataset ends at 2024,3,1,0
+Saint Lucia (LCA),LCA,22.2,2017,Pending peer comparison,Insufficient comparable periods,Limited,Data update needed,Latest usable estimate is from 2017; dataset ends at 2024,3,1,0
+Saint Kitts and Nevis (KNA),KNA,21.1,2020,Pending peer comparison,Insufficient comparable periods,Limited,Data update needed,Latest usable estimate is from 2020; dataset ends at 2024,3,1,0
+Bahamas (BHS),BHS,17.2,2022,Pending peer comparison,Insufficient comparable periods,Limited,Data update needed,Latest usable estimate is from 2022; dataset ends at 2024,3,1,0
+Tonga (TON),TON,14.8,2022,Pending peer comparison,Decreasing,Limited,Data update needed,Latest usable estimate is from 2022; dataset ends at 2024,4,1,0
+Seychelles (SYC),SYC,14.3,2017,Pending peer comparison,Insufficient comparable periods,Limited,Data update needed,Latest usable estimate is from 2017; dataset ends at 2024,3,1,0
+Antigua and Barbuda (ATG),ATG,13.5,2023,Pending peer comparison,Insufficient comparable periods,Some available,Data update needed,Latest usable estimate is from 2023; dataset ends at 2024,3,1,0
+Maldives (MDV),MDV,13.4,2022,Pending peer comparison,Little/no numerical change,Limited,Data update needed,Latest usable estimate is from 2022; dataset ends at 2024,4,1,0
+El Salvador (SLV),SLV,41.7,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Dominican Republic (DOM),DOM,41.3,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Honduras (HND),HND,39.3,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Côte d'Ivoire (CIV),CIV,37.9,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Iran (IRN),IRN,37.7,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Cambodia (KHM),KHM,36.4,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Nepal (NPL),NPL,35.0,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Peru (PER),PER,33.6,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Philippines (PHL),PHL,32.7,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,7,1,0
+Cabo Verde (CPV),CPV,32.1,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,8,1,0
+Argentina (ARG),ARG,31.7,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Libya (LBY),LBY,31.6,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Ecuador (ECU),ECU,31.1,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Mauritius (MUS),MUS,28.2,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Palau (PLW),PLW,28.1,2024,Below higher quarter,Insufficient comparable periods,Some available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,3,1,0
+Colombia (COL),COL,28.0,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Senegal (SEN),SEN,27.7,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Trinidad and Tobago (TTO),TTO,27.6,2024,Below higher quarter,Insufficient comparable periods,Some available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,3,1,0
+Bangladesh (BGD),BGD,26.2,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Paraguay (PRY),PRY,25.8,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,9,1,0
+Guyana (GUY),GUY,25.5,2024,Below higher quarter,Little/no numerical change,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,4,2,0
+Tunisia (TUN),TUN,24.2,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Tajikistan (TJK),TJK,24.0,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Pakistan (PAK),PAK,22.9,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Georgia (GEO),GEO,22.8,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Mali (MLI),MLI,20.6,2024,Below higher quarter,Little/no numerical change,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,8,1,0
+Samoa (WSM),WSM,18.2,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,8,1,0
+Algeria (DZA),DZA,17.6,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Grenada (GRD),GRD,16.5,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,8,1,0
+Mexico (MEX),MEX,16.5,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Chile (CHL),CHL,16.0,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Malaysia (MYS),MYS,15.4,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Romania (ROU),ROU,15.2,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Costa Rica (CRI),CRI,13.9,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Belize (BLZ),BLZ,12.8,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,6,1,0
+Portugal (PRT),PRT,11.0,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Bulgaria (BGR),BGR,10.5,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Sri Lanka (LKA),LKA,10.1,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Brazil (BRA),BRA,9.6,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Kuwait (KWT),KWT,9.4,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+North Macedonia (MKD),MKD,9.2,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Montenegro (MNE),MNE,9.0,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Bosnia and Herzegovina (BIH),BIH,8.7,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Spain (ESP),ESP,7.4,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Slovakia (SVK),SVK,7.3,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Armenia (ARM),ARM,7.1,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,8,1,0
+Lithuania (LTU),LTU,6.7,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Serbia (SRB),SRB,6.7,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Denmark (DNK),DNK,6.2,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Croatia (HRV),HRV,4.9,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Mongolia (MNG),MNG,4.7,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,6,1,0
+Thailand (THA),THA,4.5,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,7,1,0
+Indonesia (IDN),IDN,4.2,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+United Arab Emirates (ARE),ARE,4.2,2024,Below higher quarter,Insufficient comparable periods,Some available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,2,1,0
+Poland (POL),POL,2.7,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Luxembourg (LUX),LUX,2.6,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,1,0
+Russia (RUS),RUS,2.6,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,10,2,0
+Italy (ITA),ITA,1.7,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,4,1,0
+Cyprus (CYP),CYP,1.4,2024,Below higher quarter,Insufficient comparable periods,Some available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,2,1,0
+Kazakhstan (KAZ),KAZ,1.4,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,8,1,0
+Belarus (BLR),BLR,1.0,2024,Below higher quarter,Decreasing,More available,Routine monitoring,No higher relative-burden signal in this comparison; continue monitoring,6,1,0

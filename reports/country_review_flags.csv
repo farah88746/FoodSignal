@@ -1,0 +1,158 @@
+country_code,observations,first_year,last_year,latest_percent,source_labels,years_missing_from_2015_2024,latest_observation_age_years,coverage_label,review_flag
+AFG,10,2015,2024,77.8,2,0,0,Broader historical coverage,No automatic flag from coverage count alone
+AGO,6,2019,2024,75.4,1,4,0,Moderate historical coverage,Incomplete historical coverage: show evidence limitation
+ALB,10,2015,2024,31.8,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+ARE,2,2023,2024,4.2,1,8,0,Limited historical coverage,Limited history: do not over-interpret trend
+ARG,10,2015,2024,31.7,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+ARM,8,2017,2024,7.1,1,2,0,Broader historical coverage,No automatic flag from coverage count alone
+ATG,3,2021,2023,13.5,1,7,1,Limited historical coverage,Limited history: do not over-interpret trend
+AUS,10,2015,2024,15.1,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+AUT,10,2015,2024,4.4,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+AZE,10,2015,2024,14.6,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+BDI,3,2022,2024,70.8,1,7,0,Limited historical coverage,Limited history: do not over-interpret trend
+BEL,6,2019,2024,9.3,1,4,0,Moderate historical coverage,Incomplete historical coverage: show evidence limitation
+BEN,10,2015,2024,65.6,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+BFA,8,2017,2024,41.2,1,2,0,Broader historical coverage,No automatic flag from coverage count alone
+BGD,10,2015,2024,26.2,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+BGR,10,2015,2024,10.5,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+BHS,3,2020,2022,17.2,1,7,2,Limited historical coverage,Limited history: do not over-interpret trend
+BIH,10,2015,2024,8.7,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+BLR,6,2019,2024,1.0,1,4,0,Moderate historical coverage,Incomplete historical coverage: show evidence limitation
+BLZ,6,2019,2024,12.8,1,4,0,Moderate historical coverage,Incomplete historical coverage: show evidence limitation
+BOL,4,2021,2024,29.6,1,6,0,Moderate historical coverage,Incomplete historical coverage: show evidence limitation
+BRA,10,2015,2024,9.6,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+BRB,3,2020,2022,31.1,1,7,2,Limited historical coverage,Limited history: do not over-interpret trend
+BWA,10,2015,2024,52.0,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+CAF,3,2020,2022,88.1,1,7,2,Limited historical coverage,Limited history: do not over-interpret trend
+CAN,10,2015,2024,10.5,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+CHE,10,2015,2024,2.6,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+CHL,10,2015,2024,16.0,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+CIV,10,2015,2024,37.9,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+CMR,10,2015,2024,60.9,2,0,0,Broader historical coverage,No automatic flag from coverage count alone
+COD,6,2019,2024,81.7,1,4,0,Moderate historical coverage,Incomplete historical coverage: show evidence limitation
+COL,10,2015,2024,28.0,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+COM,4,2020,2023,79.7,1,6,1,Moderate historical coverage,Incomplete historical coverage: show evidence limitation
+CPV,8,2017,2024,32.1,1,2,0,Broader historical coverage,No automatic flag from coverage count alone
+CRI,10,2015,2024,13.9,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+CYP,2,2023,2024,1.4,1,8,0,Limited historical coverage,Limited history: do not over-interpret trend
+CZE,10,2015,2024,9.1,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+DEU,10,2015,2024,4.1,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+DJI,3,2020,2022,49.2,1,7,2,Limited historical coverage,Limited history: do not over-interpret trend
+DMA,3,2020,2022,34.4,1,7,2,Limited historical coverage,Limited history: do not over-interpret trend
+DNK,10,2015,2024,6.2,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+DOM,10,2015,2024,41.3,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+DZA,10,2015,2024,17.6,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+ECU,10,2015,2024,31.1,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+EGY,10,2015,2024,29.9,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+ESP,10,2015,2024,7.4,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+EST,10,2015,2024,13.1,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+ETH,10,2015,2024,60.1,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+FIN,10,2015,2024,13.3,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+FJI,4,2019,2022,29.2,2,6,2,Moderate historical coverage,No estimate in latest reference years: review data recency
+FRA,10,2015,2024,9.4,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+GBR,10,2015,2024,7.4,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+GEO,10,2015,2024,22.8,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+GHA,10,2015,2024,43.5,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+GMB,9,2016,2024,47.2,1,1,0,Broader historical coverage,No automatic flag from coverage count alone
+GNB,6,2017,2022,62.5,1,4,2,Moderate historical coverage,No estimate in latest reference years: review data recency
+GRC,10,2015,2024,7.1,2,0,0,Broader historical coverage,No automatic flag from coverage count alone
+GRD,8,2017,2024,16.5,1,2,0,Broader historical coverage,No automatic flag from coverage count alone
+GTM,10,2015,2024,49.0,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+GUY,4,2021,2024,25.5,2,6,0,Moderate historical coverage,Incomplete historical coverage: show evidence limitation
+HND,10,2015,2024,39.3,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+HRV,10,2015,2024,4.9,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+HTI,6,2019,2024,83.5,1,4,0,Moderate historical coverage,Incomplete historical coverage: show evidence limitation
+HUN,10,2015,2024,16.9,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+IDN,10,2015,2024,4.2,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+IRL,10,2015,2024,6.2,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+IRN,10,2015,2024,37.7,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+ISL,10,2015,2024,7.9,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+ISR,10,2015,2024,8.9,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+ITA,4,2021,2024,1.7,1,6,0,Moderate historical coverage,Incomplete historical coverage: show evidence limitation
+JAM,10,2015,2024,55.8,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+JPN,10,2015,2024,6.1,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+KAZ,8,2017,2024,1.4,1,2,0,Broader historical coverage,No automatic flag from coverage count alone
+KEN,10,2015,2024,71.7,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+KGZ,7,2017,2024,7.4,1,3,0,Moderate historical coverage,Incomplete historical coverage: show evidence limitation
+KHM,10,2015,2024,36.4,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+KIR,7,2018,2024,43.9,1,3,0,Moderate historical coverage,Incomplete historical coverage: show evidence limitation
+KNA,3,2018,2020,21.1,1,7,4,Limited historical coverage,Limited history: do not over-interpret trend
+KOR,10,2015,2024,5.8,2,0,0,Broader historical coverage,No automatic flag from coverage count alone
+KWT,10,2015,2024,9.4,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+LAO,6,2019,2024,34.4,1,4,0,Moderate historical coverage,Incomplete historical coverage: show evidence limitation
+LBN,7,2018,2024,44.3,1,3,0,Moderate historical coverage,Incomplete historical coverage: show evidence limitation
+LBR,9,2015,2024,79.0,1,1,0,Broader historical coverage,No automatic flag from coverage count alone
+LBY,10,2015,2024,31.6,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+LCA,3,2015,2017,22.2,1,7,7,Limited historical coverage,Limited history: do not over-interpret trend
+LKA,10,2015,2024,10.1,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+LSO,7,2018,2024,61.6,1,3,0,Moderate historical coverage,Incomplete historical coverage: show evidence limitation
+LTU,10,2015,2024,6.7,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+LUX,10,2015,2024,2.6,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+LVA,10,2015,2024,11.7,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+MDA,10,2015,2024,26.4,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+MDG,7,2018,2024,61.1,2,3,0,Moderate historical coverage,Incomplete historical coverage: show evidence limitation
+MDV,4,2019,2022,13.4,1,6,2,Moderate historical coverage,No estimate in latest reference years: review data recency
+MEX,10,2015,2024,16.5,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+MKD,10,2015,2024,9.2,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+MLI,8,2017,2024,20.6,1,2,0,Broader historical coverage,No automatic flag from coverage count alone
+MLT,10,2015,2024,9.0,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+MMR,6,2019,2024,31.3,1,4,0,Moderate historical coverage,Incomplete historical coverage: show evidence limitation
+MNE,10,2015,2024,9.0,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+MNG,6,2019,2024,4.7,1,4,0,Moderate historical coverage,Incomplete historical coverage: show evidence limitation
+MRT,10,2015,2024,65.1,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+MUS,10,2015,2024,28.2,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+MWI,10,2015,2024,81.6,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+MYS,10,2015,2024,15.4,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+NAM,10,2015,2024,54.0,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+NER,8,2017,2024,50.3,1,2,0,Broader historical coverage,No automatic flag from coverage count alone
+NGA,10,2015,2024,76.5,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+NLD,10,2015,2024,8.9,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+NOR,10,2015,2024,7.6,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+NPL,10,2015,2024,35.0,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+NRU,3,2020,2022,29.9,1,7,2,Limited historical coverage,Limited history: do not over-interpret trend
+NZL,10,2015,2024,17.9,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+PAK,10,2015,2024,22.9,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+PER,10,2015,2024,33.6,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+PHL,7,2018,2024,32.7,1,3,0,Moderate historical coverage,Incomplete historical coverage: show evidence limitation
+PLW,3,2022,2024,28.1,1,7,0,Limited historical coverage,Limited history: do not over-interpret trend
+PNG,3,2017,2019,57.3,1,7,5,Limited historical coverage,Limited history: do not over-interpret trend
+POL,10,2015,2024,2.7,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+PRT,10,2015,2024,11.0,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+PRY,9,2015,2024,25.8,1,1,0,Broader historical coverage,No automatic flag from coverage count alone
+PSE,6,2017,2022,27.4,1,4,2,Moderate historical coverage,No estimate in latest reference years: review data recency
+ROU,10,2015,2024,15.2,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+RUS,10,2015,2024,2.6,2,0,0,Broader historical coverage,No automatic flag from coverage count alone
+SEN,10,2015,2024,27.7,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+SGP,10,2015,2024,10.1,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+SLE,10,2015,2024,88.1,2,0,0,Broader historical coverage,No automatic flag from coverage count alone
+SLV,10,2015,2024,41.7,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+SRB,10,2015,2024,6.7,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+SSD,8,2017,2024,88.8,1,2,0,Broader historical coverage,No automatic flag from coverage count alone
+STP,3,2020,2022,54.6,1,7,2,Limited historical coverage,Limited history: do not over-interpret trend
+SUR,3,2020,2022,35.9,1,7,2,Limited historical coverage,Limited history: do not over-interpret trend
+SVK,10,2015,2024,7.3,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+SVN,10,2015,2024,7.6,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+SWE,10,2015,2024,7.9,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+SWZ,5,2020,2024,61.7,1,5,0,Moderate historical coverage,Incomplete historical coverage: show evidence limitation
+SYC,3,2015,2017,14.3,1,7,7,Limited historical coverage,Limited history: do not over-interpret trend
+TCD,10,2015,2024,65.0,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+TGO,10,2015,2024,56.3,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+THA,7,2018,2024,4.5,1,3,0,Moderate historical coverage,Incomplete historical coverage: show evidence limitation
+TJK,10,2015,2024,24.0,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+TLS,3,2019,2021,53.7,1,7,3,Limited historical coverage,Limited history: do not over-interpret trend
+TON,4,2019,2022,14.8,1,6,2,Moderate historical coverage,No estimate in latest reference years: review data recency
+TTO,3,2022,2024,27.6,1,7,0,Limited historical coverage,Limited history: do not over-interpret trend
+TUN,10,2015,2024,24.2,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+TZA,10,2015,2024,57.0,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+UGA,10,2015,2024,51.6,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+UKR,10,2015,2024,32.0,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+URY,7,2018,2024,15.5,1,3,0,Moderate historical coverage,Incomplete historical coverage: show evidence limitation
+USA,10,2015,2024,10.7,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+VCT,3,2017,2019,33.3,1,7,5,Limited historical coverage,Limited history: do not over-interpret trend
+VNM,8,2017,2024,9.4,2,2,0,Broader historical coverage,No automatic flag from coverage count alone
+VUT,3,2018,2020,23.3,1,7,4,Limited historical coverage,Limited history: do not over-interpret trend
+WSM,8,2017,2024,18.2,1,2,0,Broader historical coverage,No automatic flag from coverage count alone
+YEM,10,2015,2024,74.4,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+ZAF,7,2018,2024,20.9,1,3,0,Moderate historical coverage,Incomplete historical coverage: show evidence limitation
+ZMB,10,2015,2024,45.8,1,0,0,Broader historical coverage,No automatic flag from coverage count alone
+ZWE,10,2015,2024,70.1,1,0,0,Broader historical coverage,No automatic flag from coverage count alone

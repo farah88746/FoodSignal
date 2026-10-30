@@ -1,0 +1,158 @@
+country_code,country_name,first_unambiguous_year,last_unambiguous_year,unambiguous_years,span_years,change_pp,trend_flag,review_note
+ALB,Albania,2015,2024,10,10,-7.0,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+DZA,Algeria,2015,2024,10,10,-5.3,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+ARM,Armenia,2017,2024,8,8,-10.0,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+AUT,Austria,2015,2024,10,10,-1.1,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+BGD,Bangladesh,2015,2024,10,10,-4.4,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+BLR,Belarus,2019,2024,6,6,-0.4,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+BLZ,Belize,2019,2024,6,6,-17.2,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+BIH,Bosnia and Herzegovina,2015,2024,10,10,-0.9,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+BRA,Brazil,2015,2024,10,10,-3.7,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+BGR,Bulgaria,2015,2024,10,10,-4.4,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+CPV,Cabo Verde,2017,2024,8,8,-5.6,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+KHM,Cambodia,2015,2024,10,10,-3.2,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+TCD,Chad,2015,2024,10,10,-2.9,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+HRV,Croatia,2015,2024,10,10,-1.6,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+DOM,Dominican Republic,2015,2024,10,10,-12.9,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+SLV,El Salvador,2015,2024,10,10,-0.5,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+GMB,Gambia,2016,2024,9,9,-5.5,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+GEO,Georgia,2015,2024,10,10,-9.0,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+GRC,Greece,2015,2024,10,10,-8.7,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+GRD,Grenada,2017,2024,8,8,-7.1,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+HND,Honduras,2015,2024,10,10,-2.3,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+IDN,Indonesia,2015,2024,10,10,-1.8,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+IRN,Iran,2015,2024,10,10,-10.3,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+IRL,Ireland,2015,2024,10,10,-2.7,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+ISR,Israel,2015,2024,10,10,-2.7,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+ITA,Italy,2021,2024,4,4,-0.5,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+KAZ,Kazakhstan,2017,2024,8,8,-0.7,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+KWT,Kuwait,2015,2024,10,10,-3.2,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+LBR,Liberia,2015,2024,9,10,-0.7,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+LTU,Lithuania,2015,2024,10,10,-8.6,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+LUX,Luxembourg,2015,2024,10,10,-2.1,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+MYS,Malaysia,2015,2024,10,10,-2.0,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+MLI,Mali,2017,2024,8,8,-5.3,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+MEX,Mexico,2015,2024,10,10,-8.4,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+MNG,Mongolia,2019,2024,6,6,-2.1,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+MNE,Montenegro,2015,2024,10,10,-3.6,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+MKD,North Macedonia,2015,2024,10,10,-6.0,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+PHL,Philippines,2018,2024,7,7,-8.5,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+POL,Poland,2015,2024,10,10,-6.2,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+PRT,Portugal,2015,2024,10,10,-3.7,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+ROU,Romania,2015,2024,10,10,-4.1,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+RUS,Russia,2015,2024,10,10,-5.6,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+WSM,Samoa,2017,2024,8,8,-5.4,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+SEN,Senegal,2015,2024,10,10,-11.3,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+SRB,Serbia,2015,2024,10,10,-4.7,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+SVN,Slovenia,2015,2024,10,10,-4.7,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+CHE,Switzerland,2015,2024,10,10,-2.2,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+THA,Thailand,2018,2024,7,7,-0.2,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+TGO,Togo,2015,2024,10,10,-4.1,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+TON,Tonga,2019,2022,4,4,-8.4,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+UGA,Uganda,2015,2024,10,10,-14.7,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+ZMB,Zambia,2015,2024,10,10,-5.4,Descriptive decrease,First-to-last change is historical only; do not interpret as forecast.
+AFG,Afghanistan,2015,2024,10,10,32.7,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+AGO,Angola,2019,2024,6,6,2.5,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+ARG,Argentina,2015,2024,10,10,12.5,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+AUS,Australia,2015,2024,10,10,4.3,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+AZE,Azerbaijan,2015,2024,10,10,8.7,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+BEL,Belgium,2019,2024,6,6,5.6,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+BEN,Benin,2015,2024,10,10,10.6,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+BOL,Bolivia,2021,2024,4,4,6.7,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+BWA,Botswana,2015,2024,10,10,5.6,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+BFA,Burkina Faso,2017,2024,8,8,2.3,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+CMR,Cameroon,2015,2024,10,10,11.0,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+CAN,Canada,2015,2024,10,10,5.5,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+CHL,Chile,2015,2024,10,10,5.2,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+COL,Colombia,2015,2024,10,10,8.1,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+CRI,Costa Rica,2015,2024,10,10,1.7,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+CZE,Czechia,2015,2024,10,10,3.3,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+CIV,Côte d'Ivoire,2015,2024,10,10,3.8,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+COD,Democratic Republic of the Congo,2019,2024,6,6,12.5,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+DNK,Denmark,2015,2024,10,10,0.3,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+ECU,Ecuador,2015,2024,10,10,10.4,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+EGY,Egypt,2015,2024,10,10,2.1,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+EST,Estonia,2015,2024,10,10,3.6,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+SWZ,Eswatini,2020,2024,5,5,2.3,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+ETH,Ethiopia,2015,2024,10,10,3.9,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+FJI,Fiji,2019,2022,4,4,14.9,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+FIN,Finland,2015,2024,10,10,4.0,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+FRA,France,2015,2024,10,10,2.6,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+GHA,Ghana,2015,2024,10,10,5.2,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+GTM,Guatemala,2015,2024,10,10,6.3,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+GNB,Guinea-Bissau,2017,2022,6,6,0.8,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+HTI,Haiti,2019,2024,6,6,0.8,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+HUN,Hungary,2015,2024,10,10,5.6,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+ISL,Iceland,2015,2024,10,10,1.5,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+JAM,Jamaica,2015,2024,10,10,7.5,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+JPN,Japan,2015,2024,10,10,3.5,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+KEN,Kenya,2015,2024,10,10,21.0,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+KIR,Kiribati,2018,2024,7,7,2.9,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+KGZ,Kyrgyzstan,2017,2024,7,8,1.1,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+LAO,Laos,2019,2024,6,6,5.0,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+LVA,Latvia,2015,2024,10,10,1.8,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+LBN,Lebanon,2018,2024,7,7,29.6,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+LSO,Lesotho,2018,2024,7,7,11.9,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+LBY,Libya,2015,2024,10,10,2.5,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+MDG,Madagascar,2018,2024,7,7,3.1,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+MWI,Malawi,2015,2024,10,10,3.5,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+MLT,Malta,2015,2024,10,10,3.2,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+MRT,Mauritania,2015,2024,10,10,38.8,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+MUS,Mauritius,2015,2024,10,10,15.2,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+MDA,Moldova,2015,2024,10,10,7.1,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+MMR,Myanmar,2019,2024,6,6,9.1,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+NAM,Namibia,2015,2024,10,10,0.8,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+NPL,Nepal,2015,2024,10,10,5.5,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+NLD,Netherlands,2015,2024,10,10,3.2,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+NZL,New Zealand,2015,2024,10,10,7.9,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+NER,Niger,2017,2024,8,8,0.3,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+NGA,Nigeria,2015,2024,10,10,41.8,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+NOR,Norway,2015,2024,10,10,2.8,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+PAK,Pakistan,2015,2024,10,10,8.8,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+PRY,Paraguay,2015,2024,9,10,17.5,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+PER,Peru,2015,2024,10,10,7.0,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+SLE,Sierra Leone,2015,2024,10,10,12.3,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+SGP,Singapore,2015,2024,10,10,7.2,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+SVK,Slovakia,2015,2024,10,10,1.1,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+ZAF,South Africa,2018,2024,7,7,3.5,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+KOR,South Korea,2015,2024,10,10,1.0,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+SSD,South Sudan,2017,2024,8,8,3.7,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+ESP,Spain,2015,2024,10,10,0.3,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+LKA,Sri Lanka,2015,2024,10,10,4.2,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+PSE,State of Palestine,2017,2022,6,6,1.1,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+SWE,Sweden,2015,2024,10,10,3.4,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+TJK,Tajikistan,2015,2024,10,10,4.9,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+TZA,Tanzania,2015,2024,10,10,8.2,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+TUN,Tunisia,2015,2024,10,10,6.0,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+UKR,Ukraine,2015,2024,10,10,12.2,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+GBR,United Kingdom,2015,2024,10,10,1.1,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+USA,United States,2015,2024,10,10,0.2,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+URY,Uruguay,2018,2024,7,7,2.2,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+VNM,Vietnam,2017,2024,8,8,3.1,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+YEM,Yemen,2015,2024,10,10,28.7,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+ZWE,Zimbabwe,2015,2024,10,10,5.4,Descriptive increase,First-to-last change is historical only; do not interpret as forecast.
+ATG,Antigua and Barbuda,2021,2023,3,3,0.0,Limited history,First-to-last change is historical only; do not interpret as forecast.
+BHS,Bahamas,2020,2022,3,3,0.0,Limited history,First-to-last change is historical only; do not interpret as forecast.
+BRB,Barbados,2020,2022,3,3,0.0,Limited history,First-to-last change is historical only; do not interpret as forecast.
+BDI,Burundi,2022,2024,3,3,0.0,Limited history,First-to-last change is historical only; do not interpret as forecast.
+CAF,Central African Republic,2020,2022,3,3,0.0,Limited history,First-to-last change is historical only; do not interpret as forecast.
+CYP,Cyprus,2023,2024,2,2,0.0,Limited history,First-to-last change is historical only; do not interpret as forecast.
+DJI,Djibouti,2020,2022,3,3,0.0,Limited history,First-to-last change is historical only; do not interpret as forecast.
+DMA,Dominica,2020,2022,3,3,0.0,Limited history,First-to-last change is historical only; do not interpret as forecast.
+NRU,Nauru,2020,2022,3,3,0.0,Limited history,First-to-last change is historical only; do not interpret as forecast.
+PLW,Palau,2022,2024,3,3,0.0,Limited history,First-to-last change is historical only; do not interpret as forecast.
+PNG,Papua New Guinea,2017,2019,3,3,0.0,Limited history,First-to-last change is historical only; do not interpret as forecast.
+KNA,Saint Kitts and Nevis,2018,2020,3,3,0.0,Limited history,First-to-last change is historical only; do not interpret as forecast.
+LCA,Saint Lucia,2015,2017,3,3,0.0,Limited history,First-to-last change is historical only; do not interpret as forecast.
+VCT,Saint Vincent and the Grenadines,2017,2019,3,3,0.0,Limited history,First-to-last change is historical only; do not interpret as forecast.
+STP,Sao Tome and Principe,2020,2022,3,3,0.0,Limited history,First-to-last change is historical only; do not interpret as forecast.
+SYC,Seychelles,2015,2017,3,3,0.0,Limited history,First-to-last change is historical only; do not interpret as forecast.
+SUR,Suriname,2020,2022,3,3,0.0,Limited history,First-to-last change is historical only; do not interpret as forecast.
+TLS,Timor-Leste,2019,2021,3,3,0.0,Limited history,First-to-last change is historical only; do not interpret as forecast.
+TTO,Trinidad and Tobago,2022,2024,3,3,0.0,Limited history,First-to-last change is historical only; do not interpret as forecast.
+ARE,United Arab Emirates,2023,2024,2,2,0.6,Limited history,First-to-last change is historical only; do not interpret as forecast.
+VUT,Vanuatu,2018,2020,3,3,0.0,Limited history,First-to-last change is historical only; do not interpret as forecast.
+COM,Comoros,2020,2023,4,4,0.0,No net change,First-to-last change is historical only; do not interpret as forecast.
+DEU,Germany,2015,2024,10,10,0.0,No net change,First-to-last change is historical only; do not interpret as forecast.
+GUY,Guyana,2021,2024,4,4,0.0,No net change,First-to-last change is historical only; do not interpret as forecast.
+MDV,Maldives,2019,2022,4,4,0.0,No net change,First-to-last change is historical only; do not interpret as forecast.

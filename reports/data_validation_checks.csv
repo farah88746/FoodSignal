@@ -1,0 +1,9 @@
+check,status,observed_result,interpretation
+Rows present,PASS,1280,Processed dataset is not empty.
+Required columns,PASS,"country_code, food_insecurity_percent, source, time_detail, year",Required fields for screening and traceability.
+Country-year uniqueness,PASS,0,Duplicate country-year keys can distort rankings; current file has none.
+"Percent values in [0,100]",PASS,min=1.0; max=89.8,Percentages outside 0–100 are invalid.
+Year range,PASS,2015–2024,Dataset covers reference years 2015–2024.
+Observation status recorded,PASS,"{'E': 1154, 'A': 126}",Status codes should be preserved and explained to users.
+Source recorded,PASS,2 distinct source labels; missing=0,"Source metadata exists, but source count is not the same as independent corroboration."
+Time-window metadata,PASS,missing=0,"Values are three-year reference windows, not point-in-time measurements."

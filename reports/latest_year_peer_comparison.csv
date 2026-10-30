@@ -1,0 +1,136 @@
+source_row_number,country_code,year,food_insecurity_percent,observation_status,unit_measure,time_detail,source,indicator,record_check,relative_burden_quartile
+13780,SSD,2024,88.8,E,PT,2023-2025,National Entity,2.1.2,single_observation,Higher relative burden
+15180,SLE,2024,88.1,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Higher relative burden
+15162,HTI,2024,83.5,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Higher relative burden
+15152,COD,2024,81.7,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Higher relative burden
+13815,MWI,2024,81.6,E,PT,2023-2025,National Entity,2.1.2,single_observation,Higher relative burden
+15150,LBR,2024,79.0,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Higher relative burden
+15153,AFG,2024,77.8,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Higher relative burden
+13807,NGA,2024,76.5,E,PT,2023-2025,National Entity,2.1.2,single_observation,Higher relative burden
+13379,AGO,2024,75.4,A,PT,2023-2025,National Entity,2.1.2,single_observation,Higher relative burden
+15190,YEM,2024,74.4,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Higher relative burden
+13821,KEN,2024,71.7,E,PT,2023-2025,National Entity,2.1.2,single_observation,Higher relative burden
+13782,BDI,2024,70.8,E,PT,2023-2025,National Entity,2.1.2,single_observation,Higher relative burden
+15175,ZWE,2024,70.1,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Higher relative burden
+13826,BEN,2024,65.6,E,PT,2023-2025,National Entity,2.1.2,single_observation,Higher relative burden
+13822,MRT,2024,65.1,E,PT,2023-2025,National Entity,2.1.2,single_observation,Higher relative burden
+13810,TCD,2024,65.0,E,PT,2023-2025,National Entity,2.1.2,single_observation,Higher relative burden
+13819,SWZ,2024,61.7,E,PT,2023-2025,National Entity,2.1.2,single_observation,Higher relative burden
+13818,LSO,2024,61.6,E,PT,2023-2025,National Entity,2.1.2,single_observation,Higher relative burden
+13834,MDG,2024,61.1,E,PT,2023-2025,National Entity,2.1.2,single_observation,Higher relative burden
+15178,CMR,2024,60.9,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Higher relative burden
+15186,ETH,2024,60.1,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Higher relative burden
+13835,TZA,2024,57.0,E,PT,2023-2025,National Entity,2.1.2,single_observation,Higher relative burden
+13827,TGO,2024,56.3,E,PT,2023-2025,National Entity,2.1.2,single_observation,Higher relative burden
+15187,JAM,2024,55.8,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Higher relative burden
+25447,NAM,2024,54.0,E,PT,2023-2025,National Entity,2.1.2,single_observation,Higher relative burden
+13383,BWA,2024,52.0,A,PT,2023-2025,National Entity,2.1.2,single_observation,Higher relative burden
+13830,UGA,2024,51.6,E,PT,2023-2025,National Entity,2.1.2,single_observation,Higher relative burden
+13820,NER,2024,50.3,E,PT,2023-2025,National Entity,2.1.2,single_observation,Higher relative burden
+15200,GTM,2024,49.0,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Higher relative burden
+15154,GMB,2024,47.2,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Higher relative burden
+13817,ZMB,2024,45.8,E,PT,2023-2025,National Entity,2.1.2,single_observation,Higher relative burden
+15197,LBN,2024,44.3,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Higher relative burden
+13781,KIR,2024,43.9,E,PT,2023-2025,National Entity,2.1.2,single_observation,Higher relative burden
+13812,GHA,2024,43.5,E,PT,2023-2025,National Entity,2.1.2,single_observation,Higher relative burden
+15155,SLV,2024,41.7,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+13837,DOM,2024,41.3,E,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+13832,BFA,2024,41.2,E,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+13386,HND,2024,39.3,A,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+13814,CIV,2024,37.9,E,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+15194,IRN,2024,37.7,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15149,KHM,2024,36.4,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15163,NPL,2024,35.0,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15141,LAO,2024,34.4,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+13831,PER,2024,33.6,E,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+13380,PHL,2024,32.7,A,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+13787,CPV,2024,32.1,E,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+15151,UKR,2024,32.0,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15185,ALB,2024,31.8,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15164,ARG,2024,31.7,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15191,LBY,2024,31.6,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15144,MMR,2024,31.3,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+13838,ECU,2024,31.1,E,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+15206,EGY,2024,29.9,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+13394,BOL,2024,29.6,A,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+15137,MUS,2024,28.2,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+13779,PLW,2024,28.1,E,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+13382,COL,2024,28.0,A,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+13823,SEN,2024,27.7,E,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+13783,TTO,2024,27.6,E,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+15139,MDA,2024,26.4,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+13813,BGD,2024,26.2,E,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+13829,PRY,2024,25.8,E,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+15184,GUY,2024,25.5,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15177,TUN,2024,24.2,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15172,TJK,2024,24.0,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+13816,PAK,2024,22.9,E,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+15165,GEO,2024,22.8,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+13381,ZAF,2024,20.9,A,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+13825,MLI,2024,20.6,E,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+13806,WSM,2024,18.2,E,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+15202,NZL,2024,17.9,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15174,DZA,2024,17.6,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15140,HUN,2024,16.9,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+13786,MEX,2024,16.5,E,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+13784,GRD,2024,16.5,E,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+13836,CHL,2024,16.0,E,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+13390,URY,2024,15.5,A,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+15176,MYS,2024,15.4,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15157,ROU,2024,15.2,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15145,AUS,2024,15.1,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15196,AZE,2024,14.6,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+13808,CRI,2024,13.9,E,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+15193,FIN,2024,13.3,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15203,EST,2024,13.1,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+13389,BLZ,2024,12.8,A,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+15148,LVA,2024,11.7,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15204,PRT,2024,11.0,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+13384,USA,2024,10.7,A,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+15182,BGR,2024,10.5,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+13833,CAN,2024,10.5,E,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+13809,LKA,2024,10.1,E,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+15208,SGP,2024,10.1,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+13387,BRA,2024,9.6,A,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+15146,VNM,2024,9.4,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15147,KWT,2024,9.4,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15181,FRA,2024,9.4,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15205,BEL,2024,9.3,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15173,MKD,2024,9.2,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15195,CZE,2024,9.1,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15199,MLT,2024,9.0,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15192,MNE,2024,9.0,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15189,NLD,2024,8.9,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+13828,ISR,2024,8.9,E,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+15158,BIH,2024,8.7,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15169,ISL,2024,7.9,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15161,SWE,2024,7.9,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15183,SVN,2024,7.6,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15167,NOR,2024,7.6,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15138,GBR,2024,7.4,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+13392,KGZ,2024,7.4,A,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+15170,ESP,2024,7.4,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15179,SVK,2024,7.3,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+13385,ARM,2024,7.1,A,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+13378,GRC,2024,7.1,A,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+15160,LTU,2024,6.7,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15156,SRB,2024,6.7,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15188,IRL,2024,6.2,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15201,DNK,2024,6.2,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15198,JPN,2024,6.1,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15143,KOR,2024,5.8,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15159,HRV,2024,4.9,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+13788,MNG,2024,4.7,E,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+13824,THA,2024,4.5,E,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+15166,AUT,2024,4.4,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+13811,ARE,2024,4.2,E,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+13395,IDN,2024,4.2,A,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+15171,DEU,2024,4.1,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15168,POL,2024,2.7,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15207,CHE,2024,2.6,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+15142,LUX,2024,2.6,E,PT,2023-2025,Food and Agriculture Organization of the United Nations (FAO),2.1.2,single_observation,Below higher-burden cutoff
+13391,RUS,2024,2.6,A,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+13393,ITA,2024,1.7,A,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+13785,CYP,2024,1.4,E,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+13388,KAZ,2024,1.4,A,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff
+12147,BLR,2024,1.0,E,PT,2023-2025,National Entity,2.1.2,single_observation,Below higher-burden cutoff

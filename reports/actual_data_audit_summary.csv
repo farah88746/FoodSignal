@@ -1,0 +1,12 @@
+metric,value
+valid_observation_rows,1280
+countries_areas,157
+dataset_year_start,2015
+dataset_year_end,2024
+reference_year_audited,2024
+countries_with_reference_year_estimate,135
+countries_missing_reference_year,22
+countries_with_less_than_4_observed_years,21
+countries_with_any_conflicting_year,0
+conflicting_rows_withheld_in_reference_year,0
+countries_with_large_historical_gaps_flagged,0

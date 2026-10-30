@@ -1,0 +1,136 @@
+country_code,country_name,year,window_label,food_insecurity_percent,source,observation_status,relative_burden_rank,higher_burden_quartile
+SSD,South Sudan,2024,2023–2025,88.8,National Entity,E,1,True
+SLE,Sierra Leone,2024,2023–2025,88.1,Food and Agriculture Organization of the United Nations (FAO),E,2,True
+HTI,Haiti,2024,2023–2025,83.5,Food and Agriculture Organization of the United Nations (FAO),E,3,True
+COD,Democratic Republic of the Congo,2024,2023–2025,81.7,Food and Agriculture Organization of the United Nations (FAO),E,4,True
+MWI,Malawi,2024,2023–2025,81.6,National Entity,E,5,True
+LBR,Liberia,2024,2023–2025,79.0,Food and Agriculture Organization of the United Nations (FAO),E,6,True
+AFG,Afghanistan,2024,2023–2025,77.8,Food and Agriculture Organization of the United Nations (FAO),E,7,True
+NGA,Nigeria,2024,2023–2025,76.5,National Entity,E,8,True
+AGO,Angola,2024,2023–2025,75.4,National Entity,A,9,True
+YEM,Yemen,2024,2023–2025,74.4,Food and Agriculture Organization of the United Nations (FAO),E,10,True
+KEN,Kenya,2024,2023–2025,71.7,National Entity,E,11,True
+BDI,Burundi,2024,2023–2025,70.8,National Entity,E,12,True
+ZWE,Zimbabwe,2024,2023–2025,70.1,Food and Agriculture Organization of the United Nations (FAO),E,13,True
+BEN,Benin,2024,2023–2025,65.6,National Entity,E,14,True
+MRT,Mauritania,2024,2023–2025,65.1,National Entity,E,15,True
+TCD,Chad,2024,2023–2025,65.0,National Entity,E,16,True
+SWZ,Eswatini,2024,2023–2025,61.7,National Entity,E,17,True
+LSO,Lesotho,2024,2023–2025,61.6,National Entity,E,18,True
+MDG,Madagascar,2024,2023–2025,61.1,National Entity,E,19,True
+CMR,Cameroon,2024,2023–2025,60.9,Food and Agriculture Organization of the United Nations (FAO),E,20,True
+ETH,Ethiopia,2024,2023–2025,60.1,Food and Agriculture Organization of the United Nations (FAO),E,21,True
+TZA,Tanzania,2024,2023–2025,57.0,National Entity,E,22,True
+TGO,Togo,2024,2023–2025,56.3,National Entity,E,23,True
+JAM,Jamaica,2024,2023–2025,55.8,Food and Agriculture Organization of the United Nations (FAO),E,24,True
+NAM,Namibia,2024,2023–2025,54.0,National Entity,E,25,True
+BWA,Botswana,2024,2023–2025,52.0,National Entity,A,26,True
+UGA,Uganda,2024,2023–2025,51.6,National Entity,E,27,True
+NER,Niger,2024,2023–2025,50.3,National Entity,E,28,True
+GTM,Guatemala,2024,2023–2025,49.0,Food and Agriculture Organization of the United Nations (FAO),E,29,True
+GMB,Gambia,2024,2023–2025,47.2,Food and Agriculture Organization of the United Nations (FAO),E,30,True
+ZMB,Zambia,2024,2023–2025,45.8,National Entity,E,31,True
+LBN,Lebanon,2024,2023–2025,44.3,Food and Agriculture Organization of the United Nations (FAO),E,32,True
+KIR,Kiribati,2024,2023–2025,43.9,National Entity,E,33,True
+GHA,Ghana,2024,2023–2025,43.5,National Entity,E,34,True
+SLV,El Salvador,2024,2023–2025,41.7,Food and Agriculture Organization of the United Nations (FAO),E,35,False
+DOM,Dominican Republic,2024,2023–2025,41.3,National Entity,E,36,False
+BFA,Burkina Faso,2024,2023–2025,41.2,National Entity,E,37,False
+HND,Honduras,2024,2023–2025,39.3,National Entity,A,38,False
+CIV,Côte d'Ivoire,2024,2023–2025,37.9,National Entity,E,39,False
+IRN,Iran,2024,2023–2025,37.7,Food and Agriculture Organization of the United Nations (FAO),E,40,False
+KHM,Cambodia,2024,2023–2025,36.4,Food and Agriculture Organization of the United Nations (FAO),E,41,False
+NPL,Nepal,2024,2023–2025,35.0,Food and Agriculture Organization of the United Nations (FAO),E,42,False
+LAO,Laos,2024,2023–2025,34.4,Food and Agriculture Organization of the United Nations (FAO),E,43,False
+PER,Peru,2024,2023–2025,33.6,National Entity,E,44,False
+PHL,Philippines,2024,2023–2025,32.7,National Entity,A,45,False
+CPV,Cabo Verde,2024,2023–2025,32.1,National Entity,E,46,False
+UKR,Ukraine,2024,2023–2025,32.0,Food and Agriculture Organization of the United Nations (FAO),E,47,False
+ALB,Albania,2024,2023–2025,31.8,Food and Agriculture Organization of the United Nations (FAO),E,48,False
+ARG,Argentina,2024,2023–2025,31.7,Food and Agriculture Organization of the United Nations (FAO),E,49,False
+LBY,Libya,2024,2023–2025,31.6,Food and Agriculture Organization of the United Nations (FAO),E,50,False
+MMR,Myanmar,2024,2023–2025,31.3,Food and Agriculture Organization of the United Nations (FAO),E,51,False
+ECU,Ecuador,2024,2023–2025,31.1,National Entity,E,52,False
+EGY,Egypt,2024,2023–2025,29.9,Food and Agriculture Organization of the United Nations (FAO),E,53,False
+BOL,Bolivia,2024,2023–2025,29.6,National Entity,A,54,False
+MUS,Mauritius,2024,2023–2025,28.2,Food and Agriculture Organization of the United Nations (FAO),E,55,False
+PLW,Palau,2024,2023–2025,28.1,National Entity,E,56,False
+COL,Colombia,2024,2023–2025,28.0,National Entity,A,57,False
+SEN,Senegal,2024,2023–2025,27.7,National Entity,E,58,False
+TTO,Trinidad and Tobago,2024,2023–2025,27.6,National Entity,E,59,False
+MDA,Moldova,2024,2023–2025,26.4,Food and Agriculture Organization of the United Nations (FAO),E,60,False
+BGD,Bangladesh,2024,2023–2025,26.2,National Entity,E,61,False
+PRY,Paraguay,2024,2023–2025,25.8,National Entity,E,62,False
+GUY,Guyana,2024,2023–2025,25.5,Food and Agriculture Organization of the United Nations (FAO),E,63,False
+TUN,Tunisia,2024,2023–2025,24.2,Food and Agriculture Organization of the United Nations (FAO),E,64,False
+TJK,Tajikistan,2024,2023–2025,24.0,Food and Agriculture Organization of the United Nations (FAO),E,65,False
+PAK,Pakistan,2024,2023–2025,22.9,National Entity,E,66,False
+GEO,Georgia,2024,2023–2025,22.8,Food and Agriculture Organization of the United Nations (FAO),E,67,False
+ZAF,South Africa,2024,2023–2025,20.9,National Entity,A,68,False
+MLI,Mali,2024,2023–2025,20.6,National Entity,E,69,False
+WSM,Samoa,2024,2023–2025,18.2,National Entity,E,70,False
+NZL,New Zealand,2024,2023–2025,17.9,Food and Agriculture Organization of the United Nations (FAO),E,71,False
+DZA,Algeria,2024,2023–2025,17.6,Food and Agriculture Organization of the United Nations (FAO),E,72,False
+HUN,Hungary,2024,2023–2025,16.9,Food and Agriculture Organization of the United Nations (FAO),E,73,False
+GRD,Grenada,2024,2023–2025,16.5,National Entity,E,74,False
+MEX,Mexico,2024,2023–2025,16.5,National Entity,E,74,False
+CHL,Chile,2024,2023–2025,16.0,National Entity,E,76,False
+URY,Uruguay,2024,2023–2025,15.5,National Entity,A,77,False
+MYS,Malaysia,2024,2023–2025,15.4,Food and Agriculture Organization of the United Nations (FAO),E,78,False
+ROU,Romania,2024,2023–2025,15.2,Food and Agriculture Organization of the United Nations (FAO),E,79,False
+AUS,Australia,2024,2023–2025,15.1,Food and Agriculture Organization of the United Nations (FAO),E,80,False
+AZE,Azerbaijan,2024,2023–2025,14.6,Food and Agriculture Organization of the United Nations (FAO),E,81,False
+CRI,Costa Rica,2024,2023–2025,13.9,National Entity,E,82,False
+FIN,Finland,2024,2023–2025,13.3,Food and Agriculture Organization of the United Nations (FAO),E,83,False
+EST,Estonia,2024,2023–2025,13.1,Food and Agriculture Organization of the United Nations (FAO),E,84,False
+BLZ,Belize,2024,2023–2025,12.8,National Entity,A,85,False
+LVA,Latvia,2024,2023–2025,11.7,Food and Agriculture Organization of the United Nations (FAO),E,86,False
+PRT,Portugal,2024,2023–2025,11.0,Food and Agriculture Organization of the United Nations (FAO),E,87,False
+USA,United States,2024,2023–2025,10.7,National Entity,A,88,False
+BGR,Bulgaria,2024,2023–2025,10.5,Food and Agriculture Organization of the United Nations (FAO),E,89,False
+CAN,Canada,2024,2023–2025,10.5,National Entity,E,89,False
+SGP,Singapore,2024,2023–2025,10.1,Food and Agriculture Organization of the United Nations (FAO),E,91,False
+LKA,Sri Lanka,2024,2023–2025,10.1,National Entity,E,91,False
+BRA,Brazil,2024,2023–2025,9.6,National Entity,A,93,False
+FRA,France,2024,2023–2025,9.4,Food and Agriculture Organization of the United Nations (FAO),E,94,False
+KWT,Kuwait,2024,2023–2025,9.4,Food and Agriculture Organization of the United Nations (FAO),E,94,False
+VNM,Vietnam,2024,2023–2025,9.4,Food and Agriculture Organization of the United Nations (FAO),E,94,False
+BEL,Belgium,2024,2023–2025,9.3,Food and Agriculture Organization of the United Nations (FAO),E,97,False
+MKD,North Macedonia,2024,2023–2025,9.2,Food and Agriculture Organization of the United Nations (FAO),E,98,False
+CZE,Czechia,2024,2023–2025,9.1,Food and Agriculture Organization of the United Nations (FAO),E,99,False
+MLT,Malta,2024,2023–2025,9.0,Food and Agriculture Organization of the United Nations (FAO),E,100,False
+MNE,Montenegro,2024,2023–2025,9.0,Food and Agriculture Organization of the United Nations (FAO),E,100,False
+ISR,Israel,2024,2023–2025,8.9,National Entity,E,102,False
+NLD,Netherlands,2024,2023–2025,8.9,Food and Agriculture Organization of the United Nations (FAO),E,102,False
+BIH,Bosnia and Herzegovina,2024,2023–2025,8.7,Food and Agriculture Organization of the United Nations (FAO),E,104,False
+ISL,Iceland,2024,2023–2025,7.9,Food and Agriculture Organization of the United Nations (FAO),E,105,False
+SWE,Sweden,2024,2023–2025,7.9,Food and Agriculture Organization of the United Nations (FAO),E,105,False
+NOR,Norway,2024,2023–2025,7.6,Food and Agriculture Organization of the United Nations (FAO),E,107,False
+SVN,Slovenia,2024,2023–2025,7.6,Food and Agriculture Organization of the United Nations (FAO),E,107,False
+KGZ,Kyrgyzstan,2024,2023–2025,7.4,National Entity,A,109,False
+ESP,Spain,2024,2023–2025,7.4,Food and Agriculture Organization of the United Nations (FAO),E,109,False
+GBR,United Kingdom,2024,2023–2025,7.4,Food and Agriculture Organization of the United Nations (FAO),E,109,False
+SVK,Slovakia,2024,2023–2025,7.3,Food and Agriculture Organization of the United Nations (FAO),E,112,False
+ARM,Armenia,2024,2023–2025,7.1,National Entity,A,113,False
+GRC,Greece,2024,2023–2025,7.1,National Entity,A,113,False
+LTU,Lithuania,2024,2023–2025,6.7,Food and Agriculture Organization of the United Nations (FAO),E,115,False
+SRB,Serbia,2024,2023–2025,6.7,Food and Agriculture Organization of the United Nations (FAO),E,115,False
+DNK,Denmark,2024,2023–2025,6.2,Food and Agriculture Organization of the United Nations (FAO),E,117,False
+IRL,Ireland,2024,2023–2025,6.2,Food and Agriculture Organization of the United Nations (FAO),E,117,False
+JPN,Japan,2024,2023–2025,6.1,Food and Agriculture Organization of the United Nations (FAO),E,119,False
+KOR,South Korea,2024,2023–2025,5.8,Food and Agriculture Organization of the United Nations (FAO),E,120,False
+HRV,Croatia,2024,2023–2025,4.9,Food and Agriculture Organization of the United Nations (FAO),E,121,False
+MNG,Mongolia,2024,2023–2025,4.7,National Entity,E,122,False
+THA,Thailand,2024,2023–2025,4.5,National Entity,E,123,False
+AUT,Austria,2024,2023–2025,4.4,Food and Agriculture Organization of the United Nations (FAO),E,124,False
+IDN,Indonesia,2024,2023–2025,4.2,National Entity,A,125,False
+ARE,United Arab Emirates,2024,2023–2025,4.2,National Entity,E,125,False
+DEU,Germany,2024,2023–2025,4.1,Food and Agriculture Organization of the United Nations (FAO),E,127,False
+POL,Poland,2024,2023–2025,2.7,Food and Agriculture Organization of the United Nations (FAO),E,128,False
+LUX,Luxembourg,2024,2023–2025,2.6,Food and Agriculture Organization of the United Nations (FAO),E,129,False
+RUS,Russia,2024,2023–2025,2.6,National Entity,A,129,False
+CHE,Switzerland,2024,2023–2025,2.6,Food and Agriculture Organization of the United Nations (FAO),E,129,False
+ITA,Italy,2024,2023–2025,1.7,National Entity,A,132,False
+CYP,Cyprus,2024,2023–2025,1.4,National Entity,E,133,False
+KAZ,Kazakhstan,2024,2023–2025,1.4,National Entity,A,133,False
+BLR,Belarus,2024,2023–2025,1.0,National Entity,E,135,False
