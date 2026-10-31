@@ -1,4 +1,4 @@
-\# FoodShield AI
+\# FoodSignal
 
 \### A Data-Driven Food Insecurity Screening Dashboard
 
