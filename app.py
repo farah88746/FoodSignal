@@ -20,7 +20,7 @@ from foodshield.countries import country_label, country_name  # noqa: E402
 # ============================================================
 
 st.set_page_config(
-    page_title="FoodShield AI",
+    page_title="FoodSignal",
     page_icon="🌾",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -261,7 +261,7 @@ st.markdown(
     """
     <div class="fs-hero">
       <div class="fs-eyebrow">Humanitarian evidence workspace</div>
-      <div class="fs-hero-title">FoodShield AI</div>
+      <div class="fs-hero-title">FoodSignal</div>
       <div class="fs-hero-copy">Find countries that may need further review, understand the evidence behind each signal, and prepare a clear review brief — without treating historical estimates as forecasts or official assessments.</div>
     </div>
     """,
@@ -314,7 +314,7 @@ st.divider()
 # SIDEBAR
 # ============================================================
 
-st.sidebar.markdown("## 🌾 FoodShield AI")
+st.sidebar.markdown("## 🌾 FoodSignal")
 st.sidebar.caption("Humanitarian evidence workspace")
 st.sidebar.divider()
 st.sidebar.markdown("**Quick context**")
@@ -404,7 +404,7 @@ with st.expander("Data coverage by country (first, latest and missing years)"):
     st.download_button(
         label="Download coverage table as CSV",
         data=coverage_table.to_csv(index=False).encode("utf-8"),
-        file_name="foodshield_coverage_by_country.csv",
+        file_name="foodsignal_coverage_by_country.csv",
         mime="text/csv",
     )
 
@@ -912,14 +912,14 @@ if not priority_df.empty:
     st.download_button(
         "Download review brief (.md)",
         data=_brief_export.encode("utf-8"),
-        file_name=f"foodshield_review_brief_{_brief_code.lower()}.md",
+        file_name=f"foodsignal_review_brief_{_brief_code.lower()}.md",
         mime="text/markdown",
         key="download_decision_brief",
     )
     st.download_button(
         "Download full priority screening table (.csv)",
         data=priority_df.to_csv(index=False).encode("utf-8-sig"),
-        file_name="foodshield_priority_screening.csv",
+        file_name="foodsignal_priority_screening.csv",
         mime="text/csv",
         key="download_priority_screening",
     )
@@ -1199,7 +1199,7 @@ else:
         st.download_button(
             label="Download change table as CSV",
             data=change_table.to_csv(index=False).encode("utf-8"),
-            file_name=f"foodshield_change_{start_year}_{end_year}.csv",
+            file_name=f"foodsignal_change_{start_year}_{end_year}.csv",
             mime="text/csv",
         )
 
@@ -1256,7 +1256,7 @@ show_table(fsdata.to_display_table(filtered))
 st.download_button(
     label="Download filtered data as CSV",
     data=fsdata.to_export_frame(filtered).to_csv(index=False).encode("utf-8"),
-    file_name="foodshield_filtered_data.csv",
+    file_name="foodsignal_filtered_data.csv",
     mime="text/csv",
 )
 st.caption(
@@ -1425,6 +1425,6 @@ st.markdown(
 )
 
 st.caption(
-    "FoodShield AI supports human analysis. It does not replace official "
+    "FoodSignal supports human analysis. It does not replace official "
     "food-security assessments or expert judgment."
 )
